@@ -5,6 +5,12 @@ fill out the terminal palette. Window borders fade from yellow to red.
 
 ![Preview](preview.png)
 
+| Desktop | Lock screen |
+| --- | --- |
+| ![Desktop](screenshots/desktop.png) | ![Lock screen](preview-unlock.png) |
+
+![Backgrounds](screenshots/backgrounds.jpg)
+
 ## Install
 
 From the Omarchy menu: **Install → Theme**, then paste this repo's URL.
