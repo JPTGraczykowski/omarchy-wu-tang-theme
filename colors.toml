@@ -1,0 +1,36 @@
+# Wu-Tang — Shaolin style
+# Black ground, Wu yellow accent, temple vermilion, jade and bamboo.
+mode = "dark"
+
+accent = "#ffc20e"
+selection = "#3d3105"
+muted = "#5c5340"
+
+background = "#0a0a0a"
+dark_background = "#060606"
+darker_background = "#030303"
+lighter_background = "#1a1709"
+
+foreground = "#efe4c6"
+dark_foreground = "#6b624c"
+light_foreground = "#d6c9a5"
+bright_foreground = "#fff6dc"
+
+red = "#d42c1e"
+yellow = "#ffc20e"
+orange = "#f08a1c"
+green = "#a8b545"
+cyan = "#6fae95"
+blue = "#e3a82b"
+magenta = "#c7563c"
+brown = "#6b4a1e"
+
+bright_red = "#f0503f"
+bright_yellow = "#ffd84d"
+bright_green = "#c4d064"
+bright_cyan = "#8fcbb2"
+bright_blue = "#f2c45a"
+bright_magenta = "#e07a5f"
+
+hyprland_active_border = "rgba(ffc20eee) rgba(c8261bee) 45deg"
+hyprland_inactive_border = "rgba(2a2410aa)"
